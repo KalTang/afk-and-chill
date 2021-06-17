@@ -23,6 +23,8 @@
 `User`: Scarlett@gmail.com.
 `Pass`: Test123!
 
+P.S. If no cards appear, then someone swiped the rest... :confounded:
+
 </details>
 
 ## :computer: &nbsp; Technologies
