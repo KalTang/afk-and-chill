@@ -2,8 +2,6 @@
 
 ## :video_game: AFK & Chill :heart:
 
-Team Members: Karen, Steven, Kalvin
-
 </div>
 
 </br>
@@ -27,15 +25,11 @@ Team Members: Karen, Steven, Kalvin
 
 </details>
 
-</br>
-
 ## :computer: &nbsp; Technologies
 
 -   Front-end: ReactJS,
 -   Authentication: AWS Cognito
 -   Back-end: MongoDB Atlas, AWS Lambda, API gateway
-
-</br>
 
 ## :bookmark_tabs: &nbsp; FEATURE LIST
 
@@ -83,5 +77,8 @@ Messaging:
 
 ## References / Resources
 
-[API Resource](https://dev.twitch.tv/docs/api/)
-[Story set illustrations](https://storyset.com/)
+-   [API Resource](https://dev.twitch.tv/docs/api/)
+-   [Story set illustrations](https://storyset.com/)
+-   [Loader animation](https://loading.io/)
+
+Project by: Karen, Steven, and Kalvin
