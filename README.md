@@ -20,10 +20,10 @@
 <summary> :key: &nbsp; Test Account! </summary>
 <br/>
 
-`User`: Scarlett@gmail.com.
-`Pass`: Test123!
+-   `Test email`: Scarlett@gmail.com.
+-   `Password`: Test123!
 
-P.S. If no cards appear, then someone swiped the rest... :confounded:
+PS, if no more cards appear, then that means someone swiped the rest... :confounded:
 
 </details>
 
