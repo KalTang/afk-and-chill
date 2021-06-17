@@ -8,9 +8,12 @@ Team Members: Karen, Steven, Kalvin
 
 </br>
 
-<strong> Live Application: <--Live Link here --> </strong>
+<strong> Live Application:</strong> [Afk&Chill](https://afk-and-chill.netlify.app)</br>
+
 <strong>App type:</strong> Fullstack Serverless App<br/>
 <strong>Description:</strong> A dating designed for applications for gamers.
+<br/>
+<strong>Server github repo:</strong> [here](https://github.com/KalTang/afk-and-chill-server)
 <br/>
 </br>
 
